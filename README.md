@@ -55,18 +55,25 @@ SCAI is a comprehensive educational platform that leverages Google's Gemini AI t
 git clone https://github.com/tahirkhan05/scai-student_centric_ai
 ```
 
-2. **Install dependencies**
+2. Create a virtual environment (recommended)
+
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
+
+3. **Install dependencies**
 ```bash
 pip install -r requirements.txt
 ```
 
-3. **Set up environment variables**
+4. **Set up environment variables**
 Create a `.env` file in the root directory:
 ```env
 GOOGLE_API_KEY=your_google_api_key_here
 ```
 
-4. **Run the application**
+5. **Run the application**
 ```bash
 streamlit run app.py
 ```
