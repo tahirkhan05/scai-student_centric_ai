@@ -114,10 +114,6 @@ streamlit run app.py
 
 ## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
+Fork the repository, Create a feature branch, Make your changes, Test thoroughly, Submit a pull request
 
 **Made with ❤️ for the educational community**
