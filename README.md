@@ -4,6 +4,8 @@
 
 SCAI is a comprehensive educational platform that leverages Google's Gemini AI to provide students with personalized learning experiences across multiple domains.
 
+## 🎞️ Demo Video
+
 https://github.com/user-attachments/assets/0e80dd5d-f01e-4513-a6f4-ae044b0947ae
 
 ## ✨ Features
@@ -79,26 +81,6 @@ GOOGLE_API_KEY=your_google_api_key_here
 ```bash
 streamlit run app.py
 ```
-
-## 📦 Dependencies
-
-### Core Dependencies
-- **streamlit** - Web application framework
-- **google-generativeai** - Google Gemini AI integration
-- **langchain-google-genai** - LangChain integration with Google AI
-- **PIL (Pillow)** - Image processing
-- **plotly** - Interactive visualizations
-- **pandas** - Data manipulation
-- **numpy** - Numerical computing
-
-### Document Processing
-- **PyPDF2** - PDF document processing
-- **python-docx** - DOCX document processing
-
-### Additional Libraries
-- **requests** - HTTP requests
-- **python-dotenv** - Environment variable management
-- **langchain** - LLM framework components
 
 ## 🔧 Configuration
 
