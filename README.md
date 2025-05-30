@@ -4,7 +4,7 @@
 
 SCAI is a comprehensive educational platform that leverages Google's Gemini AI to provide students with personalized learning experiences across multiple domains.
 
-![Demo Video 👇](scai-demo.mp4)
+https://github.com/user-attachments/assets/0e80dd5d-f01e-4513-a6f4-ae044b0947ae
 
 ## ✨ Features
 
